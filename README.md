@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3946168&assignment_repo_type=AssignmentRepo)
 # S4 Object-Oriented Project
 
-## Learning Objective
+## Learning Objective 
 The first Java project you completed was a huge undertaking where you learned the basics of [imperative programming](https://en.wikipedia.org/wiki/Imperative_programming) by using loops, if statements, assignments, etc. For this next project, we'll expand into [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), which builds upon the imperative programming paradigm and add object-oriented elements to the project.
 
 We'll also learn how programmers solve big problems by breaking them down into smaller problems and abstracting them away into encapsulated reusable methods, a process called [decomposition](https://codehs.gitbooks.io/apjava/content/Programming-with-Karel/top-down-design-and-decomposition.html). Finally, we'll learn more features of GitHub and how to use it more effectively to share our code.
