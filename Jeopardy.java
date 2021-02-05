@@ -37,6 +37,7 @@ static Question[] questionBank = {
     //Asks user to choose category
     System.out.println("Choose a category. Dogs, Movies, or Candy.");
     String category = input.nextLine();
+    //Asks user to choose amount
     System.out.println("Choose an amount. $200, $400, or $600.");
     int amount = input.nextInt();
     input.nextLine();
@@ -53,12 +54,14 @@ static Question[] questionBank = {
       }
 
     }
+//checks score and prints certain statement based on it
 Score.checkScore();
+
+//asks user to play again 
 
 System.out.println("Do you wish to play again? Y/N");
     String finalAnswer = input.nextLine();
     playAgain = finalAnswer.equalsIgnoreCase("y");
-  
   }
   }
 }

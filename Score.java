@@ -1,10 +1,12 @@
 public class Score{
+ //sets initial score equal to 0
   static int score = 0;
 
   public static int getScore(){
     return score;
   }
 
+//adds points to user's score 
   public static void addScore(int points){
     score += points;
   }
