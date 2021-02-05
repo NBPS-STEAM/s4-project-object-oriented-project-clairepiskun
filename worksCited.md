@@ -17,5 +17,5 @@ When making a citation, include the resource title, URL, and date of access. Use
 [Java If ... Else](https://www.w3schools.com/java/java_conditions.asp)
 Date accessed: Jan 20, 2021
 
-[How to add the "play again?" feature fore java](https://stackoverflow.com/questions/20228918/how-to-add-the-play-again-feature-for-java)
-Date accessed: Jan 9, 2021
+[How to add the "play again?" feature fore java](https://stackoverflow.com/questions/20228918/how-to-add-the-play-again-feature-for-java) 
+Date accessed: Jan 9, 2021  
