@@ -26,7 +26,7 @@ static Question[] questionBank = {
     for(int i = 10; i < 130; i += 30) {
       System.out.println(i);
     }
-     
+
   //Prints out welcome text
   System.out.println("Welcome to Jeopardy! Let's get started.");
   
