@@ -5,6 +5,11 @@ public class Question {
   String question;
   String answer;
 
+  public Question (String category, int amount){
+    this.category = category;
+    this.amount = amount;
+  }
+  
   public Question (String category, int amount, String question, String answer){
     this.category = category;
     this.amount = amount;
@@ -23,4 +28,9 @@ public class Question {
           System.out.println("Incorrect.");
         }
         }
+
+    public String toString()
+    {
+        return "You chose: " + category + " for $" + amount;
+    }
   }

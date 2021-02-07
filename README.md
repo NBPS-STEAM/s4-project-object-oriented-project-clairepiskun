@@ -39,9 +39,9 @@ As you begin coding, ensure that your project contains all the following criteri
 - [x] Static variables & methods
 
 As you work on your project, be sure to...
-- [ ] Regularly commit your code, i.e. at the end of every coding session,
-- [ ] Add comments to your code to explain its purpose and functionality
-- [ ] Add links to any resources you use to the 'worksCited.md' file
+- [x] Regularly commit your code, i.e. at the end of every coding session,
+- [x] Add comments to your code to explain its purpose and functionality
+- [x] Add links to any resources you use to the 'worksCited.md' file
 
 Refer to the grading rubric as you go to ensure you're doing the assignment correctly.
 

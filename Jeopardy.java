@@ -41,6 +41,8 @@ static Question[] questionBank = {
     System.out.println("Choose an amount. $200, $400, or $600.");
     int amount = input.nextInt();
     input.nextLine();
+    Question q = new Question(category, amount);
+    System.out.println(q);
 
     for(int i=0; i < questionBank.length; i++){
       String qCategory = questionBank[i].category;
