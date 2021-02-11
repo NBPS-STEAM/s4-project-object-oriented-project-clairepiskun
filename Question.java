@@ -10,6 +10,7 @@ public class Question {
     this.amount = amount;
   }
   
+  //overloaded constructor
   public Question (String category, int amount, String question, String answer){
     this.category = category;
     this.amount = amount;
@@ -29,8 +30,8 @@ public class Question {
         }
         }
 
-    public String toString()
-    {
-        return "You chose: " + category + " for $" + amount;
+  //prints with inputted object parameters
+  public String toString(){
+    return "You chose: " + category + " for $" + amount;
     }
   }

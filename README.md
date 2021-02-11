@@ -34,7 +34,7 @@ Part 1 will not be considered complete until all these steps are completed.
 As you begin coding, ensure that your project contains all the following criteria:
 - [x] One main class (App) from which the program executes,
 - [x] Two or more other classes,
-- [ ] Constructors with overloading,
+- [x] Constructors with overloading,
 - [x] Appropriate accessor & mutator methods,
 - [x] Static variables & methods
 
@@ -47,8 +47,9 @@ Refer to the grading rubric as you go to ensure you're doing the assignment corr
 
 ### Part 3
 Once you've completed your assignment, record a short video (~5 minutes) that includes the following:
-- [ ] a quick demonstration that your codes works,
-- [ ] the GitHub project repository with all commits,
-- [ ] explanation of how your code uses encapsulation
+- [x] a quick demonstration that your codes works,
+- [x] the GitHub project repository with all commits,
+- [x] explanation of how your code uses encapsulation
 
 Add the link to your video here:
+https://youtu.be/W7RXfwzf4r4 

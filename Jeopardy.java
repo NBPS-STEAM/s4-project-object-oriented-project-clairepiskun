@@ -60,7 +60,6 @@ static Question[] questionBank = {
 Score.checkScore();
 
 //asks user to play again 
-
 System.out.println("Do you wish to play again? Y/N");
     String finalAnswer = input.nextLine();
     playAgain = finalAnswer.equalsIgnoreCase("y");
